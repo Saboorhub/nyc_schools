@@ -3,6 +3,5 @@ In this project, I am going to analyze the correlations between SAT scores and r
 https://en.wikipedia.org/wiki/SAT
 
 The data for this project can be found in the link below: 
-
 https://data.cityofnewyork.us/browse?category=Education
 
